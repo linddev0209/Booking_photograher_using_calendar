@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AggregationInfo.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="AuditConfig.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="AuditLogConfig.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="BillingAccount.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Binding.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Category.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Expr.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="GeoTaxonomy.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ListBillingAccountsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ListProjectBillingInfoResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ListServicesResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ListSkusResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Money.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Policy.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="PricingExpression.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="PricingInfo.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ProjectBillingInfo.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Service.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="SetIamPolicyRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Sku.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="TestIamPermissionsRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="TestIamPermissionsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="TierRate.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CancelOperationRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Evaluation.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="GceInstanceFilter.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Insight.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="ListEvaluationsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="ListLocationsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="ListOperationsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Location.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Operation.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="OperationMetadata.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="ResourceFilter.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="ResourceStatus.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="SapDiscovery.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="SapDiscoveryComponent.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="SapDiscoveryMetadata.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="SapDiscoveryResource.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="SapValidation.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="SapValidationValidationDetail.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Status.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="WorkloadmanagerEmpty.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="WriteInsightRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="WriteInsightResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+</dwsync>

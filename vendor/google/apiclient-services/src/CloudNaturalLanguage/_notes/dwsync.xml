@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AnalyzeEntitiesRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="AnalyzeEntitiesResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="AnalyzeEntitySentimentRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="AnalyzeEntitySentimentResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="AnalyzeSentimentRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="AnalyzeSentimentResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="AnalyzeSyntaxRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="AnalyzeSyntaxResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="AnnotateTextRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="AnnotateTextResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ClassificationCategory.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ClassificationModelOptions.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ClassifyTextRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ClassifyTextResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="DependencyEdge.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Document.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Entity.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="EntityMention.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Features.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="PartOfSpeech.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Sentence.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Sentiment.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Status.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="TextSpan.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Token.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="V1Model.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="V2Model.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+</dwsync>

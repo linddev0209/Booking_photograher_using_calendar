@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="GoogleCloudPaymentsResellerSubscriptionV1Amount.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1CancelSubscriptionRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1CancelSubscriptionResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1Duration.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1EntitleSubscriptionRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1EntitleSubscriptionResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1ExtendSubscriptionRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1ExtendSubscriptionResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1Extension.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1FindEligiblePromotionsRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1FindEligiblePromotionsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1GoogleOnePayload.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1ListProductsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1ListPromotionsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1Location.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1Product.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1ProductPayload.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1ProductPriceConfig.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1Promotion.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1PromotionIntroductoryPricingDetails.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1PromotionIntroductoryPricingDetailsIntroductoryPricingSpec.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1ServicePeriod.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1Subscription.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1SubscriptionCancellationDetails.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1SubscriptionLineItem.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1SubscriptionLineItemOneTimeRecurrenceDetails.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1SubscriptionPromotionSpec.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1SubscriptionUpgradeDowngradeDetails.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1UndoCancelSubscriptionRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1UndoCancelSubscriptionResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleCloudPaymentsResellerSubscriptionV1YoutubePayload.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GoogleTypeLocalizedText.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+</dwsync>

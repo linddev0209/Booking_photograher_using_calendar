@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ABNFGrammar.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="ClassItem.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="CreateCustomClassRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="CreatePhraseSetRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="CustomClass.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="ListCustomClassesResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="ListOperationsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="ListPhraseSetResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="LongRunningRecognizeMetadata.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="LongRunningRecognizeRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="LongRunningRecognizeResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Operation.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Phrase.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="PhraseSet.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="RecognitionAudio.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="RecognitionConfig.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="RecognitionMetadata.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="RecognizeRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="RecognizeResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="SpeakerDiarizationConfig.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="SpeechAdaptation.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="SpeechAdaptationInfo.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="SpeechContext.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="SpeechEmpty.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="SpeechRecognitionAlternative.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="SpeechRecognitionResult.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Status.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="TranscriptOutputConfig.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="WordInfo.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+</dwsync>

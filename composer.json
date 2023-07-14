@@ -1,0 +1,6 @@
+{
+    "require": {
+        "enyo/dropzone": "^5.9",
+        "google/apiclient": "^2.12.1"
+    }
+}

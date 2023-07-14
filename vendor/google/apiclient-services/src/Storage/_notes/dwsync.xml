@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Bucket.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BucketAccessControl.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BucketAccessControlProjectTeam.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BucketAccessControls.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BucketAutoclass.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BucketBilling.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BucketCors.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BucketCustomPlacementConfig.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BucketEncryption.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BucketIamConfiguration.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BucketIamConfigurationBucketPolicyOnly.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BucketIamConfigurationUniformBucketLevelAccess.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BucketLifecycle.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BucketLifecycleRule.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BucketLifecycleRuleAction.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BucketLifecycleRuleCondition.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BucketLogging.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BucketOwner.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BucketRetentionPolicy.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BucketVersioning.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BucketWebsite.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Buckets.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Channel.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="ComposeRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="ComposeRequestSourceObjects.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="ComposeRequestSourceObjectsObjectPreconditions.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Expr.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="HmacKey.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="HmacKeyMetadata.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="HmacKeysMetadata.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Notification.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Notifications.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="ObjectAccessControl.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="ObjectAccessControlProjectTeam.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="ObjectAccessControls.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Objects.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Policy.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="PolicyBindings.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="RewriteResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="ServiceAccount.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="StorageObject.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="StorageObjectCustomerEncryption.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="StorageObjectOwner.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="TestIamPermissionsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+</dwsync>

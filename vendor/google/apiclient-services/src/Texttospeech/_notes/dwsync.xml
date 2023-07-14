@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AudioConfig.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="CancelOperationRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="CustomVoiceParams.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="GoogleCloudTexttospeechV1SynthesizeLongAudioMetadata.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="ImportDataRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="ListOperationsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="ListVoicesResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Operation.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Status.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="SynthesisInput.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="SynthesizeLongAudioMetadata.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="SynthesizeLongAudioRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="SynthesizeSpeechRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="SynthesizeSpeechResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="TexttospeechEmpty.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Voice.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="VoiceSelectionParams.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+</dwsync>

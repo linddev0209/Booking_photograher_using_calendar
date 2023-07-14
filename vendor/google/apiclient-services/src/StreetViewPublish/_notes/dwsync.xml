@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BatchDeletePhotosRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BatchDeletePhotosResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BatchGetPhotosResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BatchUpdatePhotosRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="BatchUpdatePhotosResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Connection.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="GpsDataGapFailureDetails.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Imu.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="ImuDataGapFailureDetails.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="InsufficientGpsFailureDetails.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="LatLng.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="LatLngBounds.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Level.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="ListPhotoSequencesResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="ListPhotosResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Measurement3d.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="NoOverlapGpsFailureDetails.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="NotOutdoorsFailureDetails.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Operation.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Photo.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="PhotoId.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="PhotoResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="PhotoSequence.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Place.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Pose.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="ProcessingFailureDetails.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="Status.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="StreetviewpublishEmpty.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="UpdatePhotoRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+<file name="UploadRef.php" server="ftp.look2homes.com:5622/public_html/" local="133325274780000000" remote="133325274780000000" Dst="2" />
+</dwsync>

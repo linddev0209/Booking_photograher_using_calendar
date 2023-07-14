@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuditConfig.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="AuditLogConfig.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="Binding.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="ConfigFile.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="Deployment.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="DeploymentLabelEntry.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="DeploymentUpdate.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="DeploymentUpdateLabelEntry.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="DeploymentmanagerResource.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="DeploymentmanagerResourceWarnings.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="DeploymentmanagerResourceWarningsData.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="DeploymentsCancelPreviewRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="DeploymentsListResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="DeploymentsStopRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="Expr.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="GlobalSetPolicyRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="ImportFile.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="Manifest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="ManifestsListResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="Operation.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="OperationError.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="OperationErrorErrors.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="OperationWarnings.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="OperationWarningsData.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="OperationsListResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="Policy.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="ResourceAccessControl.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="ResourceUpdate.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="ResourceUpdateError.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="ResourceUpdateErrorErrors.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="ResourceUpdateWarnings.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="ResourceUpdateWarningsData.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="ResourcesListResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="TargetConfiguration.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="TestPermissionsRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="TestPermissionsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="Type.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="TypesListResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+</dwsync>

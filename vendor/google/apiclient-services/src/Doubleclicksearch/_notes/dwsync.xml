@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Availability.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="Conversion.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="ConversionList.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="CustomDimension.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="CustomMetric.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="IdMappingFile.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="Report.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="ReportApiColumnSpec.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="ReportFiles.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="ReportRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="ReportRequestFilters.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="ReportRequestOrderBy.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="ReportRequestReportScope.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="ReportRequestTimeRange.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="SavedColumn.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="SavedColumnList.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="UpdateAvailabilityRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="UpdateAvailabilityResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+</dwsync>

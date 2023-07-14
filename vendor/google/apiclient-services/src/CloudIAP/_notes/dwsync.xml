@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccessDeniedPageSettings.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="AccessSettings.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="AllowedDomainsSettings.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ApplicationSettings.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="AttributePropagationSettings.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Binding.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Brand.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="CorsSettings.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="CsmSettings.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Expr.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="GcipSettings.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="GetIamPolicyRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="GetPolicyOptions.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="IapEmpty.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="IapResource.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="IapSettings.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="IdentityAwareProxyClient.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ListBrandsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ListIdentityAwareProxyClientsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ListTunnelDestGroupsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="OAuthSettings.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Policy.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="PolicyDelegationSettings.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="PolicyName.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ReauthSettings.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ResetIdentityAwareProxyClientSecretRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="SetIamPolicyRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="TestIamPermissionsRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="TestIamPermissionsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="TunnelDestGroup.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+</dwsync>

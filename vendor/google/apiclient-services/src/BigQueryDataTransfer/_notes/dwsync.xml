@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BigquerydatatransferEmpty.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="CheckValidCredsRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="CheckValidCredsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="DataSource.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="DataSourceParameter.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="EmailPreferences.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="EnrollDataSourcesRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="ListDataSourcesResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="ListLocationsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="ListTransferConfigsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="ListTransferLogsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="ListTransferRunsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="Location.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="ScheduleOptions.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="ScheduleTransferRunsRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="ScheduleTransferRunsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="StartManualTransferRunsRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="StartManualTransferRunsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="Status.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="TimeRange.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="TransferConfig.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="TransferMessage.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="TransferRun.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="UserInfo.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+</dwsync>

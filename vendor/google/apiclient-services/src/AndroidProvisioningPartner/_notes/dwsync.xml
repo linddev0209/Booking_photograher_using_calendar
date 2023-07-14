@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AndroiddeviceprovisioningEmpty.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="ClaimDeviceRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="ClaimDeviceResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="ClaimDevicesRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="Company.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="Configuration.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="CreateCustomerRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="CustomerApplyConfigurationRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="CustomerListConfigurationsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="CustomerListCustomersResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="CustomerListDevicesResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="CustomerListDpcsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="CustomerRemoveConfigurationRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="CustomerUnclaimDeviceRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="Device.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="DeviceClaim.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="DeviceIdentifier.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="DeviceMetadata.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="DeviceReference.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="DevicesLongRunningOperationMetadata.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="DevicesLongRunningOperationResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="Dpc.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="FindDevicesByDeviceIdentifierRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="FindDevicesByDeviceIdentifierResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="FindDevicesByOwnerRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="FindDevicesByOwnerResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="GoogleWorkspaceAccount.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="ListCustomersResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="ListVendorCustomersResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="ListVendorsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="Operation.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="OperationPerDevice.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="PartnerClaim.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="PartnerUnclaim.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="PerDeviceStatusInBatch.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="Status.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="UnclaimDeviceRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="UnclaimDevicesRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="UpdateDeviceMetadataInBatchRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="UpdateDeviceMetadataRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="UpdateMetadataArguments.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+</dwsync>

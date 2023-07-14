@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AgentDeviceId.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="AgentOtherDeviceId.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="Device.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="DeviceInfo.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="DeviceNames.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="HomegraphEmpty.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="QueryRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="QueryRequestInput.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="QueryRequestPayload.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="QueryResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="QueryResponsePayload.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="ReportStateAndNotificationDevice.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="ReportStateAndNotificationRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="ReportStateAndNotificationResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="RequestSyncDevicesRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="RequestSyncDevicesResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="StateAndNotificationPayload.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="SyncRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="SyncResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+<file name="SyncResponsePayload.php" server="ftp.look2homes.com:5622/public_html/" local="133325274770000000" remote="133325274770000000" Dst="2" />
+</dwsync>

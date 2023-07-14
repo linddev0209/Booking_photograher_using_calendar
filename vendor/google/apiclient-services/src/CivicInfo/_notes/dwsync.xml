@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AdministrationRegion.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="AdministrativeBody.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Candidate.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Channel.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Contest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="DivisionSearchResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="DivisionSearchResult.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Election.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ElectionOfficial.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ElectionsQueryResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ElectoralDistrict.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="FeatureIdProto.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="GeocodingSummary.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="GeographicDivision.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="MessageSet.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Office.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Official.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="PollingLocation.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Precinct.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="RepresentativeInfoData.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="RepresentativeInfoResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="SimpleAddressType.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Source.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="VoterInfoResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+</dwsync>

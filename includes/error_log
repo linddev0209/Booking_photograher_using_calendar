@@ -1,0 +1,152 @@
+[14-Feb-2019 13:42:43 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[14-Feb-2019 13:42:43 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/10443/photos/10443_18298_335047.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[14-Feb-2019 13:43:12 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[14-Feb-2019 13:43:12 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/10443/photos/10443_18299_335050.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[14-Feb-2019 13:44:02 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[14-Feb-2019 13:44:02 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/10443/photos/10443_18299_335056.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[14-Feb-2019 13:44:23 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[14-Feb-2019 13:44:23 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/10443/photos/10443_18299_335060.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[31-Aug-2019 11:24:09 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[31-Aug-2019 11:24:09 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[31-Aug-2019 11:24:09 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17618/photos/17618_28953_599634.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[31-Aug-2019 11:24:27 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[31-Aug-2019 11:24:27 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[31-Aug-2019 11:24:27 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17618/photos/17618_28953_599634.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[31-Aug-2019 11:24:44 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[31-Aug-2019 11:24:44 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[31-Aug-2019 11:24:44 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17618/photos/17618_28953_599634.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[31-Aug-2019 11:24:44 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[31-Aug-2019 11:24:44 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[31-Aug-2019 11:24:44 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17618/photos/17618_28953_599636.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[31-Aug-2019 11:25:11 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[31-Aug-2019 11:25:11 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[31-Aug-2019 11:25:11 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17618/photos/17618_28953_599634.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[02-Sep-2019 12:22:40 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[02-Sep-2019 12:22:40 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[02-Sep-2019 12:22:40 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17617/photos/17617_28966_599724.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[02-Sep-2019 12:23:11 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[02-Sep-2019 12:23:11 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[02-Sep-2019 12:23:11 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17617/photos/17617_28966_599724.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[02-Sep-2019 12:27:51 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[02-Sep-2019 12:27:51 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[02-Sep-2019 12:27:51 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17617/photos/17617_28966_599726.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:03:20 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:03:20 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:03:20 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17701/photos/17701_29056_602886.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:03:31 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:03:31 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:03:31 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17701/photos/17701_29056_602887.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:03:49 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:03:49 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:03:49 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17701/photos/17701_29056_602889.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:05:09 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:05:09 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:05:09 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17701/photos/17701_29056_602894.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:05:37 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:05:37 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:05:37 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17701/photos/17701_29056_602894.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:05:50 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:05:50 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:05:50 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17701/photos/17701_29056_602895.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:08:56 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:08:56 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:08:56 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17701/photos/17701_29056_602897.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:09:08 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:09:08 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:09:08 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17701/photos/17701_29056_602897.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:42:56 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:42:56 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:42:56 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17702/photos/17702_29075_603045.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:43:07 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:43:07 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:43:07 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17702/photos/17702_29075_603046.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:44:04 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:44:04 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:44:04 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17702/photos/17702_29075_603048.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:46:20 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:46:20 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:46:20 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17702/photos/17702_29075_603049.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:46:34 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: 471 extraneous bytes before marker 0x82
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:46:34 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:46:34 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:46:34 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17702/photos/17702_29075_603050.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:46:34 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:46:34 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17702/photos/17702_29075_603049.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:46:41 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: 471 extraneous bytes before marker 0x82
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:46:41 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:46:41 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:46:41 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17702/photos/17702_29075_603050.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:46:41 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:46:41 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17702/photos/17702_29075_603049.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:46:46 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:46:46 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:46:46 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17702/photos/17702_29075_603049.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:46:57 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:46:57 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:46:57 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17702/photos/17702_29075_603052.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:47:03 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:47:03 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:47:03 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17702/photos/17702_29075_603052.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:47:24 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:47:24 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:47:24 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17702/photos/17702_29075_603054.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:47:39 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:47:39 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:47:39 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:47:39 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17702/photos/17702_29075_603054.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:47:39 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:47:39 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17702/photos/17702_29075_603055.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:47:43 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:47:43 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:47:43 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17702/photos/17702_29075_603055.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:47:51 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:47:52 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:47:52 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17702/photos/17702_29075_603056.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:48:20 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:48:20 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:48:20 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17702/photos/17702_29075_603058.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:48:48 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:48:48 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 13:48:48 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17702/photos/17702_29075_603058.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 20:25:38 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 20:25:38 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098
+[13-Sep-2019 20:25:38 UTC] PHP Warning:  imagecreatefromjpeg(): '/home/look2hom/public_html/l2fp/floorplan/17702/photos/17702_29075_603373.jpg' is not a valid JPEG file in /home/look2hom/public_html/l2fp/includes/rezor.php on line 1098

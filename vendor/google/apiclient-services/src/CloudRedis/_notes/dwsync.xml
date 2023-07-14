@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Cluster.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ClusterSlots.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Endpoint.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ExportInstanceRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="FailoverInstanceRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="GcsDestination.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="GcsSource.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="GoogleCloudRedisV1LocationMetadata.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="GoogleCloudRedisV1OperationMetadata.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="GoogleCloudRedisV1ZoneMetadata.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ImportInstanceRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="InputConfig.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Instance.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="InstanceAuthString.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ListInstancesResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ListLocationsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ListOperationsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Location.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="MaintenancePolicy.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="MaintenanceSchedule.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="NodeInfo.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Operation.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="OutputConfig.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="PersistenceConfig.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="PrivateServiceConnect.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="ReconciliationOperationMetadata.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="RedisEmpty.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="RescheduleMaintenanceRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="Status.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="TimeOfDay.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="TlsCertificate.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="UpgradeInstanceRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+<file name="WeeklyMaintenanceWindow.php" server="ftp.look2homes.com:5622/public_html/" local="133325274760000000" remote="133325274760000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AdUnit.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="App.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="AppLinkedAppInfo.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="AppManualAppInfo.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="Date.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="DateRange.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="GenerateMediationReportRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="GenerateMediationReportResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="GenerateNetworkReportRequest.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="GenerateNetworkReportResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="ListAdUnitsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="ListAppsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="ListPublisherAccountsResponse.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="LocalizationSettings.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="MediationReportSpec.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="MediationReportSpecDimensionFilter.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="MediationReportSpecSortCondition.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="NetworkReportSpec.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="NetworkReportSpecDimensionFilter.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="NetworkReportSpecSortCondition.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="PublisherAccount.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="ReportFooter.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="ReportHeader.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="ReportRow.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="ReportRowDimensionValue.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="ReportRowMetricValue.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="ReportWarning.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+<file name="StringList.php" server="ftp.look2homes.com:5622/public_html/" local="133325274750000000" remote="133325274750000000" Dst="2" />
+</dwsync>

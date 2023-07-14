@@ -1,0 +1,107 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-size: 12px;
+}
+
+h1 {
+	font-size: 32px;
+	font-weight: bold;
+	position: relative;
+	margin: 2% 0%;
+	color: #FFF;
+	float: right;
+	clear: both;
+}
+
+h2 {
+	display: block;
+	width: 96%;
+	font-size: 16px;
+	font-weight: bold;
+	padding: 0px;
+	margin: 0% 2%;
+	background:#FFF;
+	color:#000;
+}
+
+.sign_header {
+	width: 100%;
+	position: relative;
+	margin: 0%;
+	background-color: #4D4849;
+}
+
+.sign_header_split {
+	width: 46%;
+	position: relative;
+	margin: 0% 2%;
+	float: left;
+}
+
+.sign_header_split_r {
+	width: 46%;
+	position: relative;
+	margin: 0% 2%;
+	float: left;
+	text-align: right;
+}
+
+.sign_quarter {
+	width: 21%;
+	position: relative;
+	float: left;
+	margin: 0% 2%;
+}
+
+.sign_quarter_align_r {
+	width: 21%;
+	position: relative;
+	float: left;
+	margin: 0% 2%;
+	text-align: right;
+}
+
+.sign_total {
+	width: 21%;
+	position: relative;
+	float: left;
+	margin: 0% 2%;
+	text-align: right;
+	font-size: 16px;
+}
+
+.sign_half {
+	width: 46%;
+	position: relative;
+	float: left;
+	margin: 0% 2%;
+}
+
+.sign_full {
+	width: 96%;
+	position: relative;
+	margin: 0% 2%;
+}
+
+.clear {
+	clear: both; 
+	margin: 0px;
+	visibility:hidden;
+}
+
+.hr_break {
+	border : 0px;
+    height : 4px;
+    background:#4D4849;
+	color: #4D4849;
+    margin : 1% 0%;
+}
+
+.hr_orders {
+	border : 0px;
+	height : 2px;
+    background:#9E9E9E;
+	color: #9E9E9E;
+    margin : 1% 0%;
+}
